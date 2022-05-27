@@ -1,0 +1,5 @@
+* Variables: es la definición de un concepto para su utilización posterior
+* Strings: es un tipo de dato que contine letras y números
+* Funciones (argumentos, `return`): los argumentos son inputs que se dan a las funciones para realizar su lógica. Return have que la consola retorne el resultado del código.
+* Declaraciones `if`: el m´todo 'if' se utiliza para realizar controles de flujo basados en distintas cirscunstacias predefinidas.
+* Valores booleanos (`true`, `false`): es un tipo de dato binario.
